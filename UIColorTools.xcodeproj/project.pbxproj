@@ -16,6 +16,7 @@
 		685936A3237ECA8200B4076E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 685936A2237ECA8200B4076E /* main.m */; };
 		685936AD237ECA8300B4076E /* UIColorToolsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 685936AC237ECA8300B4076E /* UIColorToolsTests.m */; };
 		685936B8237ECA8300B4076E /* UIColorToolsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 685936B7237ECA8300B4076E /* UIColorToolsUITests.m */; };
+		685936C7237ECE5100B4076E /* UIColorTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 685936C6237ECE5100B4076E /* UIColorTool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		685936B3237ECA8300B4076E /* UIColorToolsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIColorToolsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		685936B7237ECA8300B4076E /* UIColorToolsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIColorToolsUITests.m; sourceTree = "<group>"; };
 		685936B9237ECA8300B4076E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		685936C5237ECE5100B4076E /* UIColorTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UIColorTool.h; sourceTree = "<group>"; };
+		685936C6237ECE5100B4076E /* UIColorTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIColorTool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				68593694237ECA7F00B4076E /* SceneDelegate.m */,
 				68593696237ECA7F00B4076E /* ViewController.h */,
 				68593697237ECA7F00B4076E /* ViewController.m */,
+				685936C5237ECE5100B4076E /* UIColorTool.h */,
+				685936C6237ECE5100B4076E /* UIColorTool.m */,
 				68593699237ECA7F00B4076E /* Main.storyboard */,
 				6859369C237ECA8200B4076E /* Assets.xcassets */,
 				6859369E237ECA8200B4076E /* LaunchScreen.storyboard */,
@@ -271,6 +276,7 @@
 				68593692237ECA7F00B4076E /* AppDelegate.m in Sources */,
 				685936A3237ECA8200B4076E /* main.m in Sources */,
 				68593695237ECA7F00B4076E /* SceneDelegate.m in Sources */,
+				685936C7237ECE5100B4076E /* UIColorTool.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
