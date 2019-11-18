@@ -2,8 +2,8 @@
 //  UIColorToolsTests.m
 //  UIColorToolsTests
 //
-//  Created by 黄华 on 2019/11/15.
-//  Copyright © 2019 黄华. All rights reserved.
+//  Created by huah on 2019/11/15.
+//  Copyright © 2019 huah. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
