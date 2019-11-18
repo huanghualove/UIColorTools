@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6824210F2382455D00A9F01A /* UIColor+Gradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 6824210E2382455D00A9F01A /* UIColor+Gradient.m */; };
+		68242115238271EB00A9F01A /* UIImage+Clip.m in Sources */ = {isa = PBXBuildFile; fileRef = 68242114238271EB00A9F01A /* UIImage+Clip.m */; };
 		68593692237ECA7F00B4076E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68593691237ECA7F00B4076E /* AppDelegate.m */; };
 		68593698237ECA7F00B4076E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68593697237ECA7F00B4076E /* ViewController.m */; };
 		6859369B237ECA7F00B4076E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68593699237ECA7F00B4076E /* Main.storyboard */; };
@@ -38,6 +39,8 @@
 /* Begin PBXFileReference section */
 		6824210D2382455D00A9F01A /* UIColor+Gradient.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIColor+Gradient.h"; sourceTree = "<group>"; };
 		6824210E2382455D00A9F01A /* UIColor+Gradient.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Gradient.m"; sourceTree = "<group>"; };
+		68242113238271EB00A9F01A /* UIImage+Clip.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+Clip.h"; sourceTree = "<group>"; };
+		68242114238271EB00A9F01A /* UIImage+Clip.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Clip.m"; sourceTree = "<group>"; };
 		6859368D237ECA7F00B4076E /* UIColorTools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIColorTools.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68593690237ECA7F00B4076E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		68593691237ECA7F00B4076E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				68593697237ECA7F00B4076E /* ViewController.m */,
 				6824210D2382455D00A9F01A /* UIColor+Gradient.h */,
 				6824210E2382455D00A9F01A /* UIColor+Gradient.m */,
+				68242113238271EB00A9F01A /* UIImage+Clip.h */,
+				68242114238271EB00A9F01A /* UIImage+Clip.m */,
 				68593699237ECA7F00B4076E /* Main.storyboard */,
 				6859369C237ECA8200B4076E /* Assets.xcassets */,
 				6859369E237ECA8200B4076E /* LaunchScreen.storyboard */,
@@ -200,7 +205,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1120;
-				ORGANIZATIONNAME = "黄华";
+				ORGANIZATIONNAME = huah;
 				TargetAttributes = {
 					6859368C237ECA7F00B4076E = {
 						CreatedOnToolsVersion = 11.2.1;
@@ -269,6 +274,7 @@
 			files = (
 				68593698237ECA7F00B4076E /* ViewController.m in Sources */,
 				6824210F2382455D00A9F01A /* UIColor+Gradient.m in Sources */,
+				68242115238271EB00A9F01A /* UIImage+Clip.m in Sources */,
 				68593692237ECA7F00B4076E /* AppDelegate.m in Sources */,
 				685936A3237ECA8200B4076E /* main.m in Sources */,
 			);
